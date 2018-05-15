@@ -12,9 +12,9 @@ Server Port:            54321
 Document Path:          /
 Document Length:        11321 bytes
 
-Concurrency Level:      1
+Concurrency Level:      5000
 Time taken for tests:   10.000 seconds
-Complete requests:      15988
+Complete requests:      15000
 Failed requests:        0
 Total transferred:      182566972 bytes
 HTML transferred:       181000148 bytes
